@@ -1,0 +1,24 @@
+PS C:\Users\Student\cpp-practicals> g++ practical10.cpp -o practical10
+PS C:\Users\Student\cpp-practicals> .\practical10.exe
+----- BANKING TRANSACTION SYSTEM -----
+Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034
+Account Holder: Satinderpal Singh Chaney
+Initial Balance: Rs. 10000
+----- SUCCESSFUL TRANSACTION -----
+Withdrawal Amount: Rs. 2000
+Transaction Successful!
+Remaining Balance: Rs. 8000
+----- INSUFFICIENT FUNDS -----
+Withdrawal Amount: Rs. 12000
+Error: Insufficient Funds!
+Transaction Failed!
+Balance: Rs. 8000
+----- INVALID AMOUNT -----
+Withdrawal Amount: Rs. -500
+Error: Invalid Amount!
+Transaction Failed!
+Balance: Rs. 8000
+Custom Exception Handling Demonstrated Successfully!
+Program executed successfully.
+PS C:\Users\Student\cpp-practicals>
